@@ -1,0 +1,7 @@
+streamlit
+st-gsheets-connection
+pandas
+numpy
+io
+time 
+joblib

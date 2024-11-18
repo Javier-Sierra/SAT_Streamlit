@@ -4,7 +4,7 @@ Este script calcula el nivel de riesgo en cuatro componentes de la vida académi
     - Vida Académica
     - Familiar
     - Económico
-    - Psicosocial 
+    - Psicosocial
 
 El cálculo de los riesgos se basa en las respuestas a un formulario diseñado para capturar aspectos integrales de la persona (ver Anexo 1). 
 Usando modelos de clasificación previamente entrenados con una población de referencia, el script clasifica el riesgo en cada componente 
